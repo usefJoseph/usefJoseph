@@ -11,8 +11,7 @@
 
   <img src="https://avatars.githubusercontent.com/u/73492840?v=4" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path.
-<!--
+<!-- I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path.
 - 🔭 I'm a software developer 
  -->
 - 🌱 I’m currently learning **C, C++ & LINUX**
