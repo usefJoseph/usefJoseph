@@ -50,15 +50,6 @@ I'm a software developer who is passionate about creating technology to elevate 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usefjoseph&show_icons=true&locale=en&layout=compact" alt="usefjoseph" /></p>
 -->
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - [usefJoseph](https://twitter.com/usefjoseph) - ssfchihab@gmail.com
-
-Project Link: [https://github.com/usefJoseph/libft](https://github.com/usefjoseph)
-
-</p>
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
