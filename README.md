@@ -38,3 +38,36 @@
  <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usefjoseph&show_icons=true&locale=en&layout=compact" alt="usefjoseph" /></p>
 -->
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [usefJoseph](https://twitter.com/usefjoseph) - ssfchihab@gmail.com
+
+Project Link: [https://github.com/usefJoseph/libft](https://github.com/usefjoseph)
+
+</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+</p>
+
+
+<p align="center">
+    <a href="https://rootjunky.com"><img src="https://img.shields.io/badge/Join_the-Community-ec2828.svg?style=for-the-badge" alt="Join our Community"></a>
+    <a href="https://www.paypal.com/donate?hosted_button_id=N6DVQ69QS424Q"><img src="https://img.shields.io/badge/Make_a-Donation-ec2828.svg?style=for-the-badge" alt="One-time Donation"></a>
+    <br>
+</p>
+
