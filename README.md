@@ -6,7 +6,7 @@
     <a href="https://www.youtube.com/c/"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/youssef chihab"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-<p align="left"> <a href="https://twitter.com/usefjoseph" target="blank"><img src="https://img.shields.io/twitter/follow/usefjoseph?logo=twitter&style=for-the-badge" alt="usefjoseph" /></a> </p>
+
 
   <img src="https://avatars.githubusercontent.com/u/73492840?v=4" align="right" width="25%"/>
 
