@@ -68,8 +68,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <p align="center">
-    <a href="https://rootjunky.com"><img src="https://img.shields.io/badge/Join_the-Community-ec2828.svg?style=for-the-badge" alt="Join our Community"></a>
-    <a href="https://www.paypal.com/donate?hosted_button_id=N6DVQ69QS424Q"><img src="https://img.shields.io/badge/Make_a-Donation-ec2828.svg?style=for-the-badge" alt="One-time Donation"></a>
+    <a href="https:// "><img src="https://img.shields.io/badge/Join_the-Community-ec2828.svg?style=for-the-badge" alt="Join our Community"></a>
+    <a href="https:// /donate?hosted_button_id="><img src="https://img.shields.io/badge/Make_a-Donation-ec2828.svg?style=for-the-badge" alt="One-time Donation"></a>
     <br>
 </p>
 
