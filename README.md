@@ -45,8 +45,8 @@
 </p>
 
 
-<p> <img width="420" src="https://github-readme-stats.vercel.app/api?username=usefJoseph&show_icons=true&theme=merko" />
- <img width="445" src="https://github-readme-streak-stats.herokuapp.com/?user=usefJoseph&theme=dark&hide_border=false" /> </p>
+<p> <img width="415" src="https://github-readme-stats.vercel.app/api?username=usefJoseph&show_icons=true&theme=merko" />
+ <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=usefJoseph&theme=dark&hide_border=false" /> </p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
