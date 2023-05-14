@@ -6,7 +6,6 @@
     <a href="https://www.instagram.com/youssef chihab"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
-
   <img src="https://avatars.githubusercontent.com/u/73492840?v=4" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path.
