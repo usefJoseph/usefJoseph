@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm YOUSSEF CHIHAB</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usefjoseph&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <p align="center">
-        <a href="https://www.github.com/youssef chihab"><img src="https://img.shields.io/badge/github-%2312100E?style=flat&logo=github&logoColor=white"/></a>  
-        <a href="https://www.gmail.com/youssef chihab"><img src="https://img.shields.io/badge/gmail-%23D14836?style=flat&logo=gmail&logoColor=white"/></a>  
+    <a href="https://www.github.com/youssef chihab"><img src="https://img.shields.io/badge/github-%2312100E?style=flat&logo=github&logoColor=white"/></a>  
+    <a href="https://www.gmail.com/youssef chihab"><img src="https://img.shields.io/badge/gmail-%23D14836?style=flat&logo=gmail&logoColor=white"/></a>  
     <a href="https://twitter.com/usef-Joseph"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/youssef chihab"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/youssef chihab"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
@@ -44,12 +44,9 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usefJoseph&show_icons=true&theme=merko) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=usefJoseph&theme=dark&hide_border=false)<br/>
- <!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usefJoseph&theme=tokyonight&hide_border=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usefjoseph&show_icons=true&locale=en&layout=compact" alt="usefjoseph" /></p>
--->
+
+<p> <img width="420" src="https://github-readme-stats.vercel.app/api?username=usefJoseph&show_icons=true&theme=merko" />
+ <img width="445" src="https://github-readme-streak-stats.herokuapp.com/?user=usefJoseph&theme=dark&hide_border=false" /> </p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
