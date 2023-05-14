@@ -8,8 +8,12 @@
   </p>
 <p align="left"> <a href="https://twitter.com/usefjoseph" target="blank"><img src="https://img.shields.io/twitter/follow/usefjoseph?logo=twitter&style=for-the-badge" alt="usefjoseph" /></a> </p>
 
-- 🔭 I’m currently working on **fract-ol**
+  <img src="https://avatars.githubusercontent.com/u/73492840?v=4" align="right" width="25%"/>
 
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path.
+<!--
+- 🔭 I'm a software developer 
+ -->
 - 🌱 I’m currently learning **C, C++ & LINUX**
 
 - 🤝 I’m looking for help with **My project**
