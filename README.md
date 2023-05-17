@@ -22,8 +22,6 @@
 
 - 💬 Ask me about **~**
 
-- 📫 How to reach me **ssfchihab@gmail.com**
-
 - 📄 Know about my experiences [📫 me](📫 me)
 
 - ⚡ Fun fact **☺**
