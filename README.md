@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm YOUSSEF CHIHAB</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usefjoseph&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <p align="center">
     <a href="https://www.github.com/youssef chihab"><img src="https://img.shields.io/badge/github-%2312100E?style=flat&logo=github&logoColor=white"/></a>  
