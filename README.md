@@ -9,7 +9,12 @@
     <a href="https://www.discord.com/youssef chihab"><img src="https://img.shields.io/badge/discord-%230177B0?style=flat&logo=discord&logoColor=white"/></a>  
 </p>
 
-  <img src="https://avatars.githubusercontent.com/u/73492840?v=4" align="right" width="25%"/>
+ 
+
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/73492840?v=4" align="right" width="25%"/>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/white/ychihab" alt="ychihab's 42 stats" /></a>
+</p>
 
 <!-- I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path.
 - 🔭 I'm a software developer 
