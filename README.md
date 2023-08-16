@@ -96,4 +96,5 @@ Use this space to list resources you find helpful and would like to give credit 
     <br>
 </p>
 
- <!--  http://fvirtman.free.fr/recueil/index.html  -->
+ <!--  http://fvirtman.free.fr/recueil/index.html -->
+ <!-- norminette 1337:  python3.7 -m c_formatter_42 -->
