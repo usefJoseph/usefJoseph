@@ -98,3 +98,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
  <!--  http://fvirtman.free.fr/recueil/index.html -->
  <!-- norminette 1337:  python3.7 -m c_formatter_42 -->
+ <!--  https://prepinsta.com/top-100-codes/ -->
+ 
